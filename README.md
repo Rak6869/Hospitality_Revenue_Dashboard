@@ -33,6 +33,19 @@ This project is part of the **Codebasics Resume Challenge #1**, where the task i
 - **Data Cleaning**: Handling missing values, column transformations
 - **Business Understanding**: Hospitality KPIs and metrics
 - **Client Communication Simulation**: Translating business needs into actionable dashboards
+  
+## Dashboard Preview
+
+Here's a glimpse of the dashboard developed for the Revenue Team:
+<p align="center">
+
+<b> 1. Default View (No Filters Applied) </b>
+  <img src="Screenshot/Nofilter.png" />
+<b> 2. Business Selected </b>
+  <img src="Screenshot/Business.png" />
+<b> 3. Bangalore City - Week 26 Selected </b>
+  <img src="Screenshot/BengaluruByWeek26.png"/>
+</p>
 
 ## Acknowledgements
 
